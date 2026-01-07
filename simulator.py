@@ -7,7 +7,7 @@ import networkx as nx
 # -----------------------------
 # Paramètres généraux
 # -----------------------------
-np.random.seed(42)  # Pour des résultats reproductibles (à mentionner dans le rapport)
+np.random.seed(42) 
 
 n_simulations = 10000
 
